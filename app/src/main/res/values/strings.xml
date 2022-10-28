@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SMART</string>
+    <string name="smart_title_hint">Title</string>
+    <string name="smart_title_label">Goal</string>
+    <string name="smart_specific_hint">Specific</string>
+    <string name="smart_specific_label">S</string>
+    <string name="smart_measurable_hint">Measurable</string>
+    <string name="smart_measurable_label">M</string>
+    <string name="smart_attainable_hint">Attainable</string>
+    <string name="smart_attainable_label">A</string>
+    <string name="smart_relevant_hint">Relevant</string>
+    <string name="smart_relevant_label">R</string>
+    <string name="smart_date_hint">Time-based</string>
+    <string name="smart_date_label">Date</string>
+    <string name="smart_time_hint">-</string>
+    <string name="smart_time_label">Time</string>
+    <string name="smart_completed_label">Goal Completed</string>
+    <string name="date_picker_title">Date of Goal: </string>
+    <string name="time_picker_title">Time of Goal: </string>
+    <string name="new_goal">New Goal</string>
+    <string name="info">Info</string>
+    <string name="delete_goal">Delete Goal</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d goals</string>
+    <string name="smart_gallery_text">Choose Photo</string>
+    <string name="smart_summary_text">Send Smart Summary</string>
+    <string name="smart_goal">%1$s!
+        The goal was created on %2$s. %3$s, and %4$s
+    </string>
+    <string name="smart_goal_completed">The goal is completed</string>
+    <string name="smart_goal_incompleted">The goal is not completed</string>
+    <string name="smart_goal_no_photo">there is no photo.</string>
+    <string name="smart_goal_photo">the photo is %s.</string>
+    <string name="smart_goal_subject">Smart Goal Report</string>
+    <string name="send_goal">Send Smart Goal via</string>
+</resources>
